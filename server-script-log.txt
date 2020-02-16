@@ -1,0 +1,18 @@
+commit c20c30c771b2ec2ef82fb6278391cf0239445fef
+Merge: 22707ae c4919a8
+Author: kaankoken <e215206@metu.edu.tr>
+Date:   Mon Dec 23 09:39:07 2019 +0200
+
+    dev and feature branched merged
+
+commit c4919a85731fa8860baab801e14bbe05a9a45a7d
+Author: kaankoken <e215206@metu.edu.tr>
+Date:   Mon Dec 23 09:37:22 2019 +0200
+
+    connection between gamelift and gamesparks established
+
+commit 22707aec6f677fa5be14200b234c9e5b50f9bf80
+Author: kaankoken <e215206@metu.edu.tr>
+Date:   Thu Nov 28 20:28:52 2019 +0200
+
+    .gitignore and readme.md added
