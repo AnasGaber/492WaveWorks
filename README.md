@@ -4,7 +4,7 @@ Multiplayer Battleship Game with Nvidia WaveWorks Integration on Unreal Engine 4
 
 Middle East Technical University, Northern Cyprus Campus       
 Computer Engineering Department                                                                                                    <br>
-Utku Can Kütküt
-Berk Burak Taşdemir
-Kaan Taha Köken
-Anas Gaber
+Utku Can Kütküt <br>
+Berk Burak Taşdemir <br>
+Kaan Taha Köken <br>
+Anas Gaber<br>
